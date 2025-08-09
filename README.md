@@ -4,6 +4,12 @@
     alt="Welcome banner" />
 </div>
 
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rounded&height=200&color=0:6366f1,100:a855f7&text=Welcome%20to%20Chanwoo's%20GitHub%20👋&fontColor=ffffff&fontSize=36&section=header"
+    alt="Welcome banner" />
+</div>
+
 
 <p align="left">
 백엔드 개발자로 성장 중입니다. Java · Spring Boot · JPA · Redis · AWS/GCP에 관심이 많습니다.
