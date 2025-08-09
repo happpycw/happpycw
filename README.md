@@ -74,6 +74,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/OAuth2-3EAAAF?logo=oauth&logoColor=white" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
+   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" />
 </p>
 
 
