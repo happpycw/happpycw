@@ -1,8 +1,8 @@
-<h1 align="center">
-  <span style="background: linear-gradient(to right, #00c6ff, #0072ff); -webkit-background-clip: text; color: transparent;">
-    Welcome to Chanwoo's GitHub 👋
-  </span>
-</h1>
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=wave&height=220&color=0:0ea5e9,100:10b981&text=Welcome%20to%20Chanwoo's%20GitHub%20👋&fontColor=ffffff&fontSize=40&fontAlign=50&fontAlignY=40&desc=Backend%20Developer%20|%20Java%20•%20Spring%20•%20JPA&descAlign=50&descAlignY=75"
+    alt="Welcome banner" />
+</div>
 
 
 <p align="left">
