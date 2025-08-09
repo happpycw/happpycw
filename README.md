@@ -1,14 +1,9 @@
+<h1 align="center">
+  <span style="background: linear-gradient(to right, #00c6ff, #0072ff); -webkit-background-clip: text; color: transparent;">
+    Welcome to Chanwoo's GitHub 👋
+  </span>
+</h1>
 
-<p align="center" style="
-  background: linear-gradient(135deg, #667eea, #764ba2);
-  color: white;
-  padding: 20px 40px;
-  font-size: 28px;
-  border-radius: 12px;
-  box-shadow: 0 4px 10px rgba(0,0,0,0.3);
-  font-weight: bold;">
-  Welcome to Chanwoo's GitHub 👋
-</p>
 
 <p align="left">
 백엔드 개발자로 성장 중입니다. Java · Spring Boot · JPA · Redis · AWS/GCP에 관심이 많습니다.
