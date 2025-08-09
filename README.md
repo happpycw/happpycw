@@ -1,26 +1,3 @@
-<div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=wave&height=220&color=0:0ea5e9,100:10b981&text=Welcome%20to%20Chanwoo's%20GitHub%20👋&fontColor=ffffff&fontSize=40&fontAlign=50&fontAlignY=40&desc=Backend%20Developer%20|%20Java%20•%20Spring%20•%20JPA&descAlign=50&descAlignY=75"
-    alt="Welcome banner" />
-</div>
-
-<div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rounded&height=200&color=0:6366f1,100:a855f7&text=Welcome%20to%20Chanwoo's%20GitHub%20👋&fontColor=ffffff&fontSize=36&section=header"
-    alt="Welcome banner" />
-</div>
-
-<div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=venom&height=220&color=232F3E&text=Welcome%20to%20Chanwoo's%20GitHub%20👋&fontColor=ffffff&fontSize=40&animation=twinkling"
-    alt="Welcome banner" />
-</div>
-
-<div align="center">
-  <img
-    src="https://svg-banners.vercel.app/api?type=glitch&text1=Welcome%20to%20Chanwoo's%20GitHub%20👋&width=1200&height=270"
-    alt="Welcome banner" />
-</div>
 
 <div align="center">
   <img
@@ -29,13 +6,6 @@
 </div>
 
 
-
-
-<p align="left">
-백엔드 개발자로 성장 중입니다. Java · Spring Boot · JPA · Redis · AWS/GCP에 관심이 많습니다.
-</p>
-
-<!-- 뱃지(원하는 것만 남기세요) -->
 
 ### 💻 기술 스택
 
@@ -96,16 +66,9 @@
 ---
 
 ### 🔭 최근 집중한 것
-- 실시간 알림(SSE), JWT 인증/인가, Redis 기반 캐시/토큰 관리
 - Spring Batch로 공공데이터 수집·스케줄링
 - OCR 연동(Naver OCR)로 영수증 데이터 파싱
 
-### ✨ 대표 프로젝트
-- **Titae** — 재무/장소 기반 서비스 (Spring Boot, JPA, Redis, Supabase)  
-  - 서버: [repo-link-1](https://github.com/yourname/repo1), 문서: [docs](https://github.com/yourname/repo1/wiki)
-- **밥로드** — 직장인 식당 추천 (Spring MVC + Thymeleaf)  
-  - 서버: [repo-link-2](https://github.com/yourname/repo2)
 
----
 
 
