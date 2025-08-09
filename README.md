@@ -1,22 +1,15 @@
-## Hi there 👋
 
-<!--
-**happpycw/happpycw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center" style="
+  background: linear-gradient(135deg, #667eea, #764ba2);
+  color: white;
+  padding: 20px 40px;
+  font-size: 28px;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+  font-weight: bold;">
+  Welcome to Chanwoo's GitHub 👋
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!-- 헤더 -->
-<h1 align="left">안녕하세요, 김찬우입니다 👋</h1>
 <p align="left">
 백엔드 개발자로 성장 중입니다. Java · Spring Boot · JPA · Redis · AWS/GCP에 관심이 많습니다.
 </p>
