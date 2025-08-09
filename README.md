@@ -31,8 +31,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Batch-6DB33F?logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scheduler-6DB33F?logo=googlecalendar&logoColor=white" />
   <img src="https://img.shields.io/badge/JPA-59666C?logo=hibernate&logoColor=white" />
 </p>
 <p align="left">
